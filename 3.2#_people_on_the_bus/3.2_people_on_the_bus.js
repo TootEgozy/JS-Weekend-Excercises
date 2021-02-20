@@ -14,6 +14,7 @@
 
 const stops = [[3,2],[5,0],[6,3]] //reduce a-b
 
+
 function lastStopSum (arr) {
 
     //map Function
